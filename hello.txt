@@ -16,6 +16,6 @@ git log 커밋등록 글 확인
 pull
 push
 
-git remote add ofigin 내 원격저장소 주소 작성 (복사) shift + insert
+git remote add origin 내 원격저장소 주소 작성 (복사) shift + insert
 git remote -v
 git push origin master 
