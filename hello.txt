@@ -1,1 +1,21 @@
-안녕
+git init 처음에만
+git status  파일확인
+git config --global user.name "kangyuri" 이름등록
+                             .email "kokcoom@naver.com" 이메일등록
+git add test.txt  파일등록
+git status 파일확인
+git add .  모든 파일 등록
+git commit -m "첫번째커밋입니다." 깃 커밋
+git status 파일확인
+git log 커밋등록 글 확인 
+
+첫번째커밋입니다.
+
+
+내 원격저장소에 밀어넣는 방법 (인터넷)
+pull
+push
+
+git remote add ofigin 내 원격저장소 주소 작성 (복사) shift + insert
+git remote -v
+git push origin master 
